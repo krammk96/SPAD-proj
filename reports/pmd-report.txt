@@ -1,0 +1,1164 @@
+src/mainlibrary/IssueBookForm.java:9:	UnusedImports: Avoid unused imports such as 'java.util.Date'
+src/mainlibrary/IssueBookForm.java:9:	UnusedImports: Avoid unused imports such as 'java.util.Date'
+src/mainlibrary/IssueBookForm.java:17:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/mainlibrary/IssueBookForm.java:17:	MissingSerialVersionUID: Classes implementing Serializable should set a serialVersionUID
+src/mainlibrary/IssueBookForm.java:17:	TooManyFields: Too many fields
+src/mainlibrary/IssueBookForm.java:17:	TooManyFields: Too many fields
+src/mainlibrary/IssueBookForm.java:22:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/mainlibrary/IssueBookForm.java:22:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/mainlibrary/IssueBookForm.java:25:	LocalVariableCouldBeFinal: Local variable 'cal' could be declared final
+src/mainlibrary/IssueBookForm.java:25:	LocalVariableCouldBeFinal: Local variable 'cal' could be declared final
+src/mainlibrary/IssueBookForm.java:27:	LocalVariableNamingConventions: The local variable name 'TodayYear' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:27:	LocalVariableNamingConventions: The local variable name 'TodayYear' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:27:	VariableNamingConventions: Variables should start with a lowercase character, 'TodayYear' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:27:	VariableNamingConventions: Variables should start with a lowercase character, 'TodayYear' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:30:	LocalVariableCouldBeFinal: Local variable 'TodayMonth' could be declared final
+src/mainlibrary/IssueBookForm.java:30:	LocalVariableCouldBeFinal: Local variable 'TodayMonth' could be declared final
+src/mainlibrary/IssueBookForm.java:30:	LocalVariableNamingConventions: The local variable name 'TodayMonth' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:30:	LocalVariableNamingConventions: The local variable name 'TodayMonth' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:30:	VariableNamingConventions: Variables should start with a lowercase character, 'TodayMonth' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:30:	VariableNamingConventions: Variables should start with a lowercase character, 'TodayMonth' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:32:	LocalVariableCouldBeFinal: Local variable 'TodayDate' could be declared final
+src/mainlibrary/IssueBookForm.java:32:	LocalVariableCouldBeFinal: Local variable 'TodayDate' could be declared final
+src/mainlibrary/IssueBookForm.java:32:	LocalVariableNamingConventions: The local variable name 'TodayDate' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:32:	LocalVariableNamingConventions: The local variable name 'TodayDate' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:32:	VariableNamingConventions: Variables should start with a lowercase character, 'TodayDate' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:32:	VariableNamingConventions: Variables should start with a lowercase character, 'TodayDate' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:51:	CommentSize: Comment is too large: Line too long
+src/mainlibrary/IssueBookForm.java:51:	CommentSize: Comment is too large: Line too long
+src/mainlibrary/IssueBookForm.java:52:	ExcessiveMethodLength: Avoid really long methods.
+src/mainlibrary/IssueBookForm.java:52:	ExcessiveMethodLength: Avoid really long methods.
+src/mainlibrary/IssueBookForm.java:52:	NcssCount: The method 'initComponents()' has a NCSS line count of 61.
+src/mainlibrary/IssueBookForm.java:52:	NcssCount: The method 'initComponents()' has a NCSS line count of 61.
+src/mainlibrary/IssueBookForm.java:77:	AvoidDuplicateLiterals: The String literal "Ubuntu" appears 10 times in this file; the first occurrence is on line 77
+src/mainlibrary/IssueBookForm.java:77:	AvoidDuplicateLiterals: The String literal "Ubuntu" appears 10 times in this file; the first occurrence is on line 77
+src/mainlibrary/IssueBookForm.java:92:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:92:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:92:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:92:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:92:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:92:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:93:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:93:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:100:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:100:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:100:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:100:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:100:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:100:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:101:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:101:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:106:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:106:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:106:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:106:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:106:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:106:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:107:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:107:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:112:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:112:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:112:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:112:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:112:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:112:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:113:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:113:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:120:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:120:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:120:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:120:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:120:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:120:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:121:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:121:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:132:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:132:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:132:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:132:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:132:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:132:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:133:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:133:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:138:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:138:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:138:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:138:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:138:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:138:	MissingOverride: The method 'actionPerformed(java.awt.event.ActionEvent)' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:139:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:139:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/mainlibrary/IssueBookForm.java:155:	LocalVariableCouldBeFinal: Local variable 'layout' could be declared final
+src/mainlibrary/IssueBookForm.java:155:	LocalVariableCouldBeFinal: Local variable 'layout' could be declared final
+src/mainlibrary/IssueBookForm.java:156:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:156:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:157:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:158:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:159:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:161:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:161:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:161:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:161:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:161:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:161:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:166:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:168:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:169:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:172:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:174:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:175:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:176:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:176:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:176:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:176:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:176:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:176:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:176:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:176:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:176:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:176:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:182:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:182:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:182:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:182:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:182:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:182:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:182:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:182:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:182:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:182:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:189:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:189:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:189:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:189:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:193:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:193:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:193:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:193:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:198:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:198:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:198:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:198:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:198:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:198:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:198:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:198:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:199:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:199:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:199:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:199:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:204:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:205:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:206:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:208:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:208:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:208:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:208:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:212:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:212:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:212:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:212:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:216:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:224:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:224:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:224:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:224:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:224:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:224:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:224:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:224:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:224:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:224:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:224:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:224:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:241:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:241:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:241:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:241:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:243:	LocalVariableNamingConventions: The local variable name 'BookIDV' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:243:	LocalVariableNamingConventions: The local variable name 'BookIDV' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:243:	VariableNamingConventions: Variables should start with a lowercase character, 'BookIDV' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:243:	VariableNamingConventions: Variables should start with a lowercase character, 'BookIDV' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:244:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'BookIDV' (lines '244'-'280').
+src/mainlibrary/IssueBookForm.java:244:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'BookIDV' (lines '244'-'280').
+src/mainlibrary/IssueBookForm.java:245:	LocalVariableNamingConventions: The local variable name 'UserIDV' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:245:	LocalVariableNamingConventions: The local variable name 'UserIDV' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:245:	VariableNamingConventions: Variables should start with a lowercase character, 'UserIDV' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:245:	VariableNamingConventions: Variables should start with a lowercase character, 'UserIDV' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:246:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'UserIDV' (lines '246'-'280').
+src/mainlibrary/IssueBookForm.java:246:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'UserIDV' (lines '246'-'280').
+src/mainlibrary/IssueBookForm.java:248:	LocalVariableCouldBeFinal: Local variable 'IFDate' could be declared final
+src/mainlibrary/IssueBookForm.java:248:	LocalVariableCouldBeFinal: Local variable 'IFDate' could be declared final
+src/mainlibrary/IssueBookForm.java:248:	LocalVariableNamingConventions: The local variable name 'IFDate' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:248:	LocalVariableNamingConventions: The local variable name 'IFDate' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:248:	VariableNamingConventions: Variables should start with a lowercase character, 'IFDate' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:248:	VariableNamingConventions: Variables should start with a lowercase character, 'IFDate' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:249:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'RFDate' (lines '249'-'280').
+src/mainlibrary/IssueBookForm.java:249:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'RFDate' (lines '249'-'280').
+src/mainlibrary/IssueBookForm.java:249:	LocalVariableCouldBeFinal: Local variable 'RFDate' could be declared final
+src/mainlibrary/IssueBookForm.java:249:	LocalVariableCouldBeFinal: Local variable 'RFDate' could be declared final
+src/mainlibrary/IssueBookForm.java:249:	LocalVariableNamingConventions: The local variable name 'RFDate' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:249:	LocalVariableNamingConventions: The local variable name 'RFDate' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:249:	VariableNamingConventions: Variables should start with a lowercase character, 'RFDate' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:249:	VariableNamingConventions: Variables should start with a lowercase character, 'RFDate' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:250:	SystemPrintln: System.out.println is used
+src/mainlibrary/IssueBookForm.java:250:	SystemPrintln: System.out.println is used
+src/mainlibrary/IssueBookForm.java:256:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:256:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:256:	UselessQualifiedThis: Useless qualified this usage in the same class.
+src/mainlibrary/IssueBookForm.java:256:	UselessQualifiedThis: Useless qualified this usage in the same class.
+src/mainlibrary/IssueBookForm.java:258:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/mainlibrary/IssueBookForm.java:258:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/mainlibrary/IssueBookForm.java:260:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:260:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:260:	UselessQualifiedThis: Useless qualified this usage in the same class.
+src/mainlibrary/IssueBookForm.java:260:	UselessQualifiedThis: Useless qualified this usage in the same class.
+src/mainlibrary/IssueBookForm.java:264:	AvoidDuplicateLiterals: The String literal "Issuing Book Error!" appears 4 times in this file; the first occurrence is on line 264
+src/mainlibrary/IssueBookForm.java:264:	AvoidDuplicateLiterals: The String literal "Issuing Book Error!" appears 4 times in this file; the first occurrence is on line 264
+src/mainlibrary/IssueBookForm.java:264:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:264:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:264:	UselessQualifiedThis: Useless qualified this usage in the same class.
+src/mainlibrary/IssueBookForm.java:264:	UselessQualifiedThis: Useless qualified this usage in the same class.
+src/mainlibrary/IssueBookForm.java:270:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:270:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:270:	UselessQualifiedThis: Useless qualified this usage in the same class.
+src/mainlibrary/IssueBookForm.java:270:	UselessQualifiedThis: Useless qualified this usage in the same class.
+src/mainlibrary/IssueBookForm.java:272:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:272:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:272:	UselessQualifiedThis: Useless qualified this usage in the same class.
+src/mainlibrary/IssueBookForm.java:272:	UselessQualifiedThis: Useless qualified this usage in the same class.
+src/mainlibrary/IssueBookForm.java:274:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:274:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:274:	UselessQualifiedThis: Useless qualified this usage in the same class.
+src/mainlibrary/IssueBookForm.java:274:	UselessQualifiedThis: Useless qualified this usage in the same class.
+src/mainlibrary/IssueBookForm.java:282:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:282:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:282:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:282:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:288:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:288:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:288:	MethodNamingConventions: The instance method name 'UserIDActionPerformed' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:288:	MethodNamingConventions: The instance method name 'UserIDActionPerformed' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:288:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:288:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:292:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:292:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:292:	MethodNamingConventions: The instance method name 'IDateActionPerformed' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:292:	MethodNamingConventions: The instance method name 'IDateActionPerformed' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:292:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:292:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:296:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:296:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:296:	MethodNamingConventions: The instance method name 'IMonthActionPerformed' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:296:	MethodNamingConventions: The instance method name 'IMonthActionPerformed' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:296:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:296:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:300:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:300:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:300:	MethodNamingConventions: The instance method name 'RYearActionPerformed' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:300:	MethodNamingConventions: The instance method name 'RYearActionPerformed' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:300:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:300:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:304:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:304:	MethodArgumentCouldBeFinal: Parameter 'evt' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:304:	MethodNamingConventions: The instance method name 'BookIDActionPerformed' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:304:	MethodNamingConventions: The instance method name 'BookIDActionPerformed' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:304:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:304:	UnusedFormalParameter: Avoid unused method parameters such as 'evt'.
+src/mainlibrary/IssueBookForm.java:311:	DataflowAnomalyAnalysis: Found 'UR'-anomaly for variable 'info' (lines '311'-'319').
+src/mainlibrary/IssueBookForm.java:311:	DataflowAnomalyAnalysis: Found 'UR'-anomaly for variable 'info' (lines '311'-'319').
+src/mainlibrary/IssueBookForm.java:311:	DataflowAnomalyAnalysis: Found 'UR'-anomaly for variable 'info' (lines '311'-'319').
+src/mainlibrary/IssueBookForm.java:311:	DataflowAnomalyAnalysis: Found 'UR'-anomaly for variable 'info' (lines '311'-'319').
+src/mainlibrary/IssueBookForm.java:311:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:311:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/mainlibrary/IssueBookForm.java:313:	CommentSize: Comment is too large: Line too long
+src/mainlibrary/IssueBookForm.java:313:	CommentSize: Comment is too large: Line too long
+src/mainlibrary/IssueBookForm.java:314:	CommentSize: Comment is too large: Line too long
+src/mainlibrary/IssueBookForm.java:314:	CommentSize: Comment is too large: Line too long
+src/mainlibrary/IssueBookForm.java:315:	CommentSize: Comment is too large: Line too long
+src/mainlibrary/IssueBookForm.java:315:	CommentSize: Comment is too large: Line too long
+src/mainlibrary/IssueBookForm.java:318:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/mainlibrary/IssueBookForm.java:318:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/mainlibrary/IssueBookForm.java:318:	LocalVariableCouldBeFinal: Local variable 'info' could be declared final
+src/mainlibrary/IssueBookForm.java:318:	LocalVariableCouldBeFinal: Local variable 'info' could be declared final
+src/mainlibrary/IssueBookForm.java:320:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/mainlibrary/IssueBookForm.java:320:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/mainlibrary/IssueBookForm.java:325:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:325:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:325:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:325:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:325:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:325:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:325:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/mainlibrary/IssueBookForm.java:325:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/mainlibrary/IssueBookForm.java:326:	IdenticalCatchBranches: 'catch' branch identical to 'ClassNotFoundException' branch
+src/mainlibrary/IssueBookForm.java:326:	IdenticalCatchBranches: 'catch' branch identical to 'ClassNotFoundException' branch
+src/mainlibrary/IssueBookForm.java:327:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:327:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:327:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:327:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:327:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:327:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:327:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/mainlibrary/IssueBookForm.java:327:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/mainlibrary/IssueBookForm.java:328:	IdenticalCatchBranches: 'catch' branch identical to 'ClassNotFoundException' branch
+src/mainlibrary/IssueBookForm.java:328:	IdenticalCatchBranches: 'catch' branch identical to 'ClassNotFoundException' branch
+src/mainlibrary/IssueBookForm.java:329:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:329:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:329:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:329:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:329:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:329:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:329:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/mainlibrary/IssueBookForm.java:329:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/mainlibrary/IssueBookForm.java:330:	IdenticalCatchBranches: 'catch' branch identical to 'ClassNotFoundException' branch
+src/mainlibrary/IssueBookForm.java:330:	IdenticalCatchBranches: 'catch' branch identical to 'ClassNotFoundException' branch
+src/mainlibrary/IssueBookForm.java:331:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:331:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:331:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:331:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:331:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:331:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/mainlibrary/IssueBookForm.java:331:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/mainlibrary/IssueBookForm.java:331:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/mainlibrary/IssueBookForm.java:336:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/mainlibrary/IssueBookForm.java:336:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/mainlibrary/IssueBookForm.java:337:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:337:	CommentRequired: Public method and constructor comments are required
+src/mainlibrary/IssueBookForm.java:337:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:337:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/mainlibrary/IssueBookForm.java:344:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:344:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:344:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:344:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:344:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:344:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:344:	FieldNamingConventions: The field name 'BookID' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:344:	FieldNamingConventions: The field name 'BookID' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:344:	VariableNamingConventions: Variables should start with a lowercase character, 'BookID' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:344:	VariableNamingConventions: Variables should start with a lowercase character, 'BookID' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:345:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:345:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:345:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:345:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:345:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:345:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:345:	FieldNamingConventions: The field name 'IDate' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:345:	FieldNamingConventions: The field name 'IDate' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:345:	VariableNamingConventions: Variables should start with a lowercase character, 'IDate' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:345:	VariableNamingConventions: Variables should start with a lowercase character, 'IDate' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:346:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:346:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:346:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:346:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:346:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:346:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:346:	FieldNamingConventions: The field name 'IMonth' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:346:	FieldNamingConventions: The field name 'IMonth' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:346:	VariableNamingConventions: Variables should start with a lowercase character, 'IMonth' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:346:	VariableNamingConventions: Variables should start with a lowercase character, 'IMonth' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:347:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:347:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:347:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:347:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:347:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:347:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:347:	FieldNamingConventions: The field name 'IYear' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:347:	FieldNamingConventions: The field name 'IYear' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:347:	VariableNamingConventions: Variables should start with a lowercase character, 'IYear' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:347:	VariableNamingConventions: Variables should start with a lowercase character, 'IYear' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:348:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:348:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:348:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:348:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:348:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:348:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:348:	FieldNamingConventions: The field name 'RDate' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:348:	FieldNamingConventions: The field name 'RDate' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:348:	VariableNamingConventions: Variables should start with a lowercase character, 'RDate' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:348:	VariableNamingConventions: Variables should start with a lowercase character, 'RDate' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:349:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:349:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:349:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:349:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:349:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:349:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:349:	FieldNamingConventions: The field name 'RMonth' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:349:	FieldNamingConventions: The field name 'RMonth' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:349:	VariableNamingConventions: Variables should start with a lowercase character, 'RMonth' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:349:	VariableNamingConventions: Variables should start with a lowercase character, 'RMonth' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:350:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:350:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:350:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:350:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:350:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:350:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:350:	FieldNamingConventions: The field name 'RYear' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:350:	FieldNamingConventions: The field name 'RYear' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:350:	VariableNamingConventions: Variables should start with a lowercase character, 'RYear' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:350:	VariableNamingConventions: Variables should start with a lowercase character, 'RYear' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:351:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:351:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:351:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:351:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:351:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:351:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:351:	FieldNamingConventions: The field name 'UserID' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:351:	FieldNamingConventions: The field name 'UserID' doesn't match '[a-z][a-zA-Z0-9]*'
+src/mainlibrary/IssueBookForm.java:351:	VariableNamingConventions: Variables should start with a lowercase character, 'UserID' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:351:	VariableNamingConventions: Variables should start with a lowercase character, 'UserID' starts with uppercase character.
+src/mainlibrary/IssueBookForm.java:352:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:352:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:352:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:352:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:352:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:352:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:352:	SingularField: Perhaps 'jButton1' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:352:	SingularField: Perhaps 'jButton1' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:353:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:353:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:353:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:353:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:353:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:353:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:353:	SingularField: Perhaps 'jButton2' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:353:	SingularField: Perhaps 'jButton2' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:354:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:354:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:354:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:354:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:354:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:354:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:354:	SingularField: Perhaps 'jLabel1' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:354:	SingularField: Perhaps 'jLabel1' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:355:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:355:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:355:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:355:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:355:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:355:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:355:	SingularField: Perhaps 'jLabel2' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:355:	SingularField: Perhaps 'jLabel2' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:356:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:356:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:356:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:356:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:356:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:356:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:356:	SingularField: Perhaps 'jLabel3' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:356:	SingularField: Perhaps 'jLabel3' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:357:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:357:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:357:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:357:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:357:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:357:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:357:	SingularField: Perhaps 'jLabel4' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:357:	SingularField: Perhaps 'jLabel4' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:358:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:358:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:358:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:358:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:358:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:358:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:358:	SingularField: Perhaps 'jLabel5' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:358:	SingularField: Perhaps 'jLabel5' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:359:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:359:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:359:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:359:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:359:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:359:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:359:	SingularField: Perhaps 'jLabel6' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:359:	SingularField: Perhaps 'jLabel6' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:360:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:360:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:360:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:360:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:360:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:360:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:360:	SingularField: Perhaps 'jLabel7' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:360:	SingularField: Perhaps 'jLabel7' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:361:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:361:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/mainlibrary/IssueBookForm.java:361:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:361:	CommentRequired: Field comments are required
+src/mainlibrary/IssueBookForm.java:361:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:361:	FieldDeclarationsShouldBeAtStartOfClass: Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/mainlibrary/IssueBookForm.java:361:	SingularField: Perhaps 'jLabel8' could be replaced by a local variable.
+src/mainlibrary/IssueBookForm.java:361:	SingularField: Perhaps 'jLabel8' could be replaced by a local variable.
